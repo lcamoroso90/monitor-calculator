@@ -1,4 +1,13 @@
 /* src/index.css */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* * The rest of your CSS (like the body style you had) 
+ * goes BELOW these three lines.
+ */
+
 body {
     margin: 0;
     padding: 0;
